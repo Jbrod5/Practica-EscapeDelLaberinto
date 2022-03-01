@@ -4,4 +4,4 @@ Este repositorio contiene:
 3. El .jar ejecutable del programa
 4. Manual de usuario
 5. Manual técnico
-6. Algoritmos
+6. Algoritmos en un archivo de texto plano
